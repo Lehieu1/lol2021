@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/lol2021/static/css/main.f032c23c.chunk.css",
-    "main.js": "/github.io/lol2021/static/js/main.661f51f9.chunk.js",
-    "main.js.map": "/github.io/lol2021/static/js/main.661f51f9.chunk.js.map",
-    "runtime-main.js": "/github.io/lol2021/static/js/runtime-main.0cca9f78.js",
-    "runtime-main.js.map": "/github.io/lol2021/static/js/runtime-main.0cca9f78.js.map",
-    "static/js/2.fa63fb62.chunk.js": "/github.io/lol2021/static/js/2.fa63fb62.chunk.js",
-    "static/js/2.fa63fb62.chunk.js.map": "/github.io/lol2021/static/js/2.fa63fb62.chunk.js.map",
-    "static/js/3.6436ef68.chunk.js": "/github.io/lol2021/static/js/3.6436ef68.chunk.js",
-    "static/js/3.6436ef68.chunk.js.map": "/github.io/lol2021/static/js/3.6436ef68.chunk.js.map",
-    "index.html": "/github.io/lol2021/index.html",
-    "static/css/main.f032c23c.chunk.css.map": "/github.io/lol2021/static/css/main.f032c23c.chunk.css.map",
-    "static/js/2.fa63fb62.chunk.js.LICENSE.txt": "/github.io/lol2021/static/js/2.fa63fb62.chunk.js.LICENSE.txt"
+    "main.css": "/lol2021/static/css/main.f032c23c.chunk.css",
+    "main.js": "/lol2021/static/js/main.661f51f9.chunk.js",
+    "main.js.map": "/lol2021/static/js/main.661f51f9.chunk.js.map",
+    "runtime-main.js": "/lol2021/static/js/runtime-main.3197e36c.js",
+    "runtime-main.js.map": "/lol2021/static/js/runtime-main.3197e36c.js.map",
+    "static/js/2.fa63fb62.chunk.js": "/lol2021/static/js/2.fa63fb62.chunk.js",
+    "static/js/2.fa63fb62.chunk.js.map": "/lol2021/static/js/2.fa63fb62.chunk.js.map",
+    "static/js/3.6436ef68.chunk.js": "/lol2021/static/js/3.6436ef68.chunk.js",
+    "static/js/3.6436ef68.chunk.js.map": "/lol2021/static/js/3.6436ef68.chunk.js.map",
+    "index.html": "/lol2021/index.html",
+    "static/css/main.f032c23c.chunk.css.map": "/lol2021/static/css/main.f032c23c.chunk.css.map",
+    "static/js/2.fa63fb62.chunk.js.LICENSE.txt": "/lol2021/static/js/2.fa63fb62.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cca9f78.js",
+    "static/js/runtime-main.3197e36c.js",
     "static/js/2.fa63fb62.chunk.js",
     "static/css/main.f032c23c.chunk.css",
     "static/js/main.661f51f9.chunk.js"
