@@ -1,0 +1,42 @@
+.Hero {
+    width: 90%;
+    margin: auto;
+    background-color: rgba(255, 85, 85, 0.7);
+    display: grid;
+    grid-template-columns: 400px 500px;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.img-hero {
+    margin-top: 60px;
+}
+.img-hero h2 {
+    text-transform: uppercase;
+    color: rgb(58, 53, 5);
+}
+.img-hero img {
+    width: 60%;
+}
+.Spells {
+    margin-top: 20px;
+    padding-bottom: 50px;
+}
+.spell {
+    margin-top: 10px;
+}
+.spell img {
+    width: 12%;
+}
+.infor {
+    font-size: 14px;
+}
+.infor div:nth-child(1) {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb(58, 53, 5);
+}
+.infor div:nth-child(2) {
+    text-align: left;
+    color: white;
+}
